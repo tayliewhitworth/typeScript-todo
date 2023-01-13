@@ -1,6 +1,6 @@
 # typeScript-todo
 
-###Todo App
+### Todo App
 
 This todo app was made using TypeScript. You can add and check off tasks. 
 The tasks are then stored in your localStorage to be accessed again. 
